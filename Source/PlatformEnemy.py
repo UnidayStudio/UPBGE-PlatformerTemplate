@@ -10,6 +10,11 @@ from collections import OrderedDict
 
 
 class PlatformEnemy(bge.types.KX_PythonComponent):
+	""" PlatformEnemy Component:
+		Add this component into an enemy and they will walk around within
+	certain area.
+		NOTE: TO DO!
+	"""
 	args = OrderedDict([
 	])
 

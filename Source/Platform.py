@@ -10,6 +10,11 @@ from collections import OrderedDict
 
 
 class Platform(bge.types.KX_PythonComponent):
+	""" Platform Component:
+		Add this component to an object and the object will start moving like a
+	platform.
+		NOTE: TO DO!
+	"""
 	args = OrderedDict([
 	])
 

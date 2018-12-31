@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PathAlignment.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PathAlignment.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Source/PathAlignment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+            <state relative-caret-position="478">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
                 <element signature="e#560#570#0" expanded="true" />
               </folding>
@@ -35,13 +35,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlatformCharacter.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PlatformCharacter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source/PlatformCharacter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            <state relative-caret-position="1139">
+              <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
               <folding>
                 <element signature="e#560#570#0" expanded="true" />
+                <element signature="e#1967#2088#0" expanded="false" />
+                <marker date="1546261615381" expanded="false" signature="1807:1928" ph="..." />
               </folding>
             </state>
           </provider>
@@ -50,8 +52,8 @@
       <file leaf-file-name="PlatformEnemy.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source/PlatformEnemy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="255">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding>
                 <element signature="e#560#570#0" expanded="true" />
               </folding>
@@ -62,8 +64,8 @@
       <file leaf-file-name="PlatformTrampoline.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source/PlatformTrampoline.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="238">
+              <caret line="14" column="78" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
               <folding>
                 <element signature="e#560#570#0" expanded="true" />
               </folding>
@@ -74,8 +76,8 @@
       <file leaf-file-name="Platform.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source/Platform.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            <state relative-caret-position="306">
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
               <folding>
                 <element signature="e#560#570#0" expanded="true" />
               </folding>
@@ -95,10 +97,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Source/PlatformEnemy.py" />
-        <option value="$PROJECT_DIR$/Source/Platform.py" />
-        <option value="$PROJECT_DIR$/Source/PlatformTrampoline.py" />
         <option value="$PROJECT_DIR$/Source/PathAlignment.py" />
+        <option value="$PROJECT_DIR$/Source/PlatformEnemy.py" />
+        <option value="$PROJECT_DIR$/Source/PlatformTrampoline.py" />
+        <option value="$PROJECT_DIR$/Source/Platform.py" />
         <option value="$PROJECT_DIR$/Source/PlatformCharacter.py" />
       </list>
     </option>
@@ -141,6 +143,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="UPBGE-PlatformerTemplate" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UPBGE-PlatformerTemplate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UPBGE-PlatformerTemplate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -369,6 +381,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#560#570#0" expanded="true" />
+            <element signature="e#1967#2088#0" expanded="false" />
+            <marker date="1546261615381" expanded="false" signature="1807:1928" ph="..." />
           </folding>
         </state>
       </provider>
@@ -419,6 +433,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#560#570#0" expanded="true" />
+            <element signature="e#1967#2088#0" expanded="false" />
+            <marker date="1546261615381" expanded="false" signature="1807:1928" ph="..." />
           </folding>
         </state>
       </provider>
@@ -453,40 +469,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Source/Platform.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="e#560#570#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Source/PlatformTrampoline.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="238">
+          <caret line="14" column="78" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
           <folding>
             <element signature="e#560#570#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Source/PlatformEnemy.py">
+    <entry file="file://$PROJECT_DIR$/Source/Platform.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="e#560#570#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/PathAlignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        <state relative-caret-position="306">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
           <folding>
             <element signature="e#560#570#0" expanded="true" />
           </folding>
@@ -495,8 +491,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Source/PlatformCharacter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state relative-caret-position="1139">
+          <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+          <folding>
+            <element signature="e#560#570#0" expanded="true" />
+            <element signature="e#1967#2088#0" expanded="false" />
+            <marker date="1546261615381" expanded="false" signature="1807:1928" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/PlatformEnemy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#560#570#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/PathAlignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
             <element signature="e#560#570#0" expanded="true" />
           </folding>
